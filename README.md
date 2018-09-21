@@ -1,1 +1,22 @@
-MyWebsite
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>This is MyWebsite on the tab
+    </title>
+    <link rel="icon"
+
+    <meta charset="utf-8">
+    <meta name="description">
+    <meta name="keywords" content="HTML, CSS, HTML5, JavaScript">
+  </head>
+  <body>
+    <h1>Welcome to the MyWebpage</h1>
+    <h2> This website is mainly about expressing your creativity through works of art. Creative Crafting and emotions</h2>
+    <p></p>
+    <h3> this is an informative practice typing paragraph just for a testrun third paragraph text</h3>
+    <h4> another paragraph test run this is going to wrap up my third paragraph message and end it. </h4>
+    <nav><a href="index.html">Home</a> | <a href="about.html">About<a/> | Contact | Portfolio
+    </nav>
+
+    <main>
+      <section>
