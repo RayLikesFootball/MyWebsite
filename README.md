@@ -7,6 +7,7 @@
     <meta charset="utf-8">
     <meta name="description" this is from my brainstorm ideas>
     <meta name="keywords" content="HTML, CSS, HTML5, JavaScript">
+    
   </head>
   <body>
     <main>
