@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>This is MyPowerfulWebsite
+    <title>Welcome!
     </title>
     <link rel="icon" href="images folder/bape" type="image/jpg" sizes="16x16">
     <meta charset="utf-8">
@@ -22,10 +22,13 @@
     <h2> This is Expressing My Creativity through works of Art.</h2>
     <p style="font-size: 20px">The interest in showing graffiti on canvas has developed as soon as graffiti sprayed in the city. In 1972, Hugo Martinez, sociology major at City College in New York took notice of the legitimate artistic potential of the early graffiti writers generation. United Graffiti Artists and Martinez selected top subway artists from all around the city and presented their work in the formal context of an art gallery.</p>
       </article>
-    </section>  
- <nav id="mainTitle"><a href="index.html">Home</a> | <a href="about.html">About<a/> | <a href="contact.html">Contact<a/> | <a href="The Gallery">photo<a/>
+    </section>   
+    <nav id="mainTitle"><a href="index.html">Home</a> | <a href="about.html">About<a/> | <a href="contact.html">Contact<a/> | <a href="The Gallery">photo<a/>
     </nav>
       
+      <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
   </body>
 
