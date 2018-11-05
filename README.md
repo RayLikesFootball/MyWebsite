@@ -6,7 +6,7 @@
     <link rel="icon" href="images/offical glitch.jpg" type="image/jpg" sizes="16x16">
     <meta charset="utf-8">
     <meta name="description" This is from my brainstorm ideas>
-    <meta name="keywords" content="HTML, CSS, HTML5, JavaScript">
+    <meta name="keywords" content="Firefox, CSS, HTML5, JavaScript">
     <link rel="stylesheet" type="text/css" href="styles.css">
 <style>
 body {
