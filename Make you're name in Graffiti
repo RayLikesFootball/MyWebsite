@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html
+	  lang="en">
+  <head>
+    <title> Drawling board
+    </title>
+    <link rel="icon" href="`/offical glitch.jpg" type="image/jpg" sizes="16x16">
+    <meta charset="utf-8">
+    <meta name="description" This is from my brainstorm ideas>
+    <meta name="keywords" content="HTML, CSS, HTML5, Firefox">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+	
+	  <body>
+    <nav class="topnav">
+        <a href="index.html">Home</a>
+		<a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+		<a class="active" href="#">Create</a>
+        <a href="gallery.html">Photo</a>
+    </nav>
+	  </body>
